@@ -1,0 +1,6 @@
+@media (max-width: 1675px) {
+  .menu__wrap:not(:last-child) {
+    width: 30%;
+    margin-right: 32px;
+  }
+}
