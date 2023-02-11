@@ -1,5 +1,5 @@
 # ProfBeautyMarket
-Разработка интернет-магазина профессиональной косметики под ключ <a href="https://pbm.u0618804.plsk.regruhosting.ru/">Посмотреть можно здесь</a><br>
+Разработка интернет-магазина профессиональной косметики под ключ <a target="_blank" href="https://pbm.u0618804.plsk.regruhosting.ru/">Посмотреть можно здесь</a><br>
 <hr>
 * Адаптивная кросс-браузерная вёрстка на Flex, Grid<br>
 * Натяжка на Wordpress/woocommerce<br>
